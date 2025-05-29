@@ -1,4 +1,4 @@
-alert("Bem Vindo");
+alert("Bem vindo");   
 
 let nome = prompt("digite seu nome")
 
